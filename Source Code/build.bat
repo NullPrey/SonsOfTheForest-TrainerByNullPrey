@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --clean --collect-submodules "SonsOfTheForestUnity" --collect-submodules "UI_SonsOfTheForest" "SonsOfTheForest_Window.pyw"
