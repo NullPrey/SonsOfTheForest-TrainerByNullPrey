@@ -1,0 +1,1 @@
+pyinstaller SonsOfTheForest_Window.spec
